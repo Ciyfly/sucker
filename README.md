@@ -19,6 +19,7 @@
 
 
 ## 使用
+可以在这里下载 https://github.com/Ciyfly/sucker/releases
 
 ```
 NAME:
